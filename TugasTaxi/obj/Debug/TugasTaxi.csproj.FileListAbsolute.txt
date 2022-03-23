@@ -1,0 +1,6 @@
+D:\Kuliah semester 2\Pemrograman\Pertemuan 3\TugasTaxi\TugasTaxi\bin\Debug\TugasTaxi.exe.config
+D:\Kuliah semester 2\Pemrograman\Pertemuan 3\TugasTaxi\TugasTaxi\obj\Debug\TugasTaxi.csprojResolveAssemblyReference.cache
+D:\Kuliah semester 2\Pemrograman\Pertemuan 3\TugasTaxi\TugasTaxi\bin\Debug\TugasTaxi.exe
+D:\Kuliah semester 2\Pemrograman\Pertemuan 3\TugasTaxi\TugasTaxi\bin\Debug\TugasTaxi.pdb
+D:\Kuliah semester 2\Pemrograman\Pertemuan 3\TugasTaxi\TugasTaxi\obj\Debug\TugasTaxi.exe
+D:\Kuliah semester 2\Pemrograman\Pertemuan 3\TugasTaxi\TugasTaxi\obj\Debug\TugasTaxi.pdb
